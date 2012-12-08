@@ -1,0 +1,6 @@
+{
+    "hardDrives": [],
+    "powerSources": [],
+    "attachables": [],
+    "bodies": []
+}
