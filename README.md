@@ -13,7 +13,7 @@ I'm pretty sure this is an Apple application that somehow does stuff with flashc
 Robat
 -----
 
-John Lhota, Daniel Glus, and Miles Shebar made this fun game where you build robots and make money.
+John Lhota, Daniel Glus, and Miles Shebar made this fun (yeah, right) game where you build robots and make money.
 
 SwivelDrive
 -----------
